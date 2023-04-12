@@ -14,7 +14,7 @@
             <ul class="nav_links">
                 <li><a href="">Projet</a></li>
                 <li><a href="">Equipes</a></li>
-                <li><a href="">Histoire</a></li>
+                <li><a href="">Histoire</a></li>               
             </ul>
         </nav>
 
