@@ -12,9 +12,9 @@
         <a href="index.php"><img src="img/logo.jpg" alt="logo_site" class="logo"></a> 
         <nav class="">
             <ul class="nav_links">
-                <li><a href="">Projet</a></li>
-                <li><a href="">Equipes</a></li>
-                <li><a href="">Histoire</a></li>
+                <li><a href="inscription.php">Inscription</a></li>
+                <li><a href="bibliothèque.php">Bibliothèque</a></li>
+                <li><a href="todolist.php">To Do List</a></li>
             </ul>
         </nav>
    </header>
