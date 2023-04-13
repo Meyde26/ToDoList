@@ -17,5 +17,27 @@
             </ul>
         </nav>
    </header>
+
+   <main>
+   <h2>Connexion</h2>
+	<form>
+		<label for="username">Nom d'utilisateur:</label>
+		<input type="text" id="username" name="username"><br><br>
+		<label for="password">Mot de passe:</label>
+		<input type="password" id="password" name="password"><br><br>
+		<input type="submit" value="Se connecter">
+	</form>
+    <h2 class="compte">Créer un compte</h2>
+	<form>
+		<label for="new-username">Nom d'utilisateur:</label>
+		<input type="text" id="new-username" name="new-username"><br><br>
+		<label for="new-password">Mot de passe:</label>
+		<input type="password" id="new-password" name="new-password"><br><br>
+		<label for="confirm-password">Confirmer le mot de passe:</label>
+		<input type="password" id="confirm-password" name="confirm-password"><br><br>
+		<input type="submit" value="Créer un compte">
+	</form>
+    <div class="esc"></div>
+   </main>
 </body>
 </html>
