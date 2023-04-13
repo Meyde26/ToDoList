@@ -5,6 +5,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="styles/style.css">
+    <link rel="stylesheet" href="styles/todolistStyle.css">
+
     <title>ToDoList</title>
 </head>
 <body>
@@ -19,8 +21,27 @@
    </header>
 
    <main>
+   <!DOCTYPE html>
+<html>
+<head>
+	<title>Ma ToDoList</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+	<h1>Ma ToDoList</h1>
+	<form>
+		<input type="text" id="new-task" placeholder="Ajouter une tâche">
+		<button id="add-task">Ajouter</button>
+	</form>
+	<ul id="task-list">
+		<li>Faire les courses</li>
+		<li>Répondre aux e-mails</li>
+		<li>Appeler le médecin</li>
+	</ul>
+	<script src="script/todolistScript.js"></script>
+</body>
+</html>
 
-   
    </main>
 </body>
 </html>
