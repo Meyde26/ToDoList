@@ -20,7 +20,7 @@
 
    <main>
    <h2>Connexion</h2>
-   <form method="POST" action="traitement.php">
+   <form method="POST" action="TraitementFormulaire.php">
 		<label for="username">Nom d'utilisateur:</label>
 		<input type="text" id="username" name="username"><br><br>
 		<label for="password">Mot de passe:</label>
@@ -29,7 +29,7 @@
         <input type="submit" value="Envoyer">
 	</form>
     <h2 class="compte">Créer un compte</h2>
-	<form method="POST" action="traitement.php">
+	<form method="POST" action="TraitementFormulaire.php">
 		<label for="new-username">Nom d'utilisateur:</label>
 		<input type="text" id="new-username" name="new-username"><br><br>
 		<label for="new-password">Mot de passe:</label>
