@@ -34,9 +34,9 @@
 		<button id="add-task">Ajouter</button>
 	</form>
 	<ul id="task-list">
-		<li>Faire les courses</li>
-		<li>Répondre aux e-mails</li>
-		<li>Appeler le médecin</li>
+		<li>Tâche n°1</li>
+		<li>Tâche n°2</li>
+		<li>Tâche n°3</li>
 	</ul>
 	<script src="script/todolistScript.js"></script>
 </body>

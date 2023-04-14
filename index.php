@@ -18,5 +18,9 @@
             </ul>
         </nav>
    </header>
+
+   <main>
+    <h1>Accueil</h1>
+   </main>
 </body>
 </html>
